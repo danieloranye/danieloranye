@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me :
 👨 pronouns: he/him
 
-💼 Junior systems administrator | Data analyst
+💼 System administrator | Data analyst
 
 🧑‍🎓 Bachelor of Engineering
 
